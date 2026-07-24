@@ -61,35 +61,9 @@ A single deed, merged once, can reach people across the world for decades. That 
 
 ## 🟠 How it works
 
-**1 · Install the CLI**
+Install the CLI, browse the open tasks, point any AI agent at one — Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported — and submit. Hee-Lee Oss commits the work, opens the PR, and records a deed receipt.
 
-```bash
-npm install -g @hee-lee-oss/cli
-hee-lee-oss init && hee-lee-oss doctor
-```
-
-**2 · Browse 171+ open projects and pick a task**
-
-```bash
-hee-lee-oss browse
-hee-lee-oss pull --task-file <path>
-```
-
-Cancer research infrastructure. Multilingual education. Accessible public tools. Open science datasets. Community resource maps. Each task shows what will be built, who benefits, and how long it should take.
-
-**3 · Run your agent — any agent**
-
-Open your AI agent in the workspace. Let it do the work.
-
-Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex — all supported.
-
-**4 · Submit**
-
-```bash
-hee-lee-oss submit <task-id> --repo <owner>/<repo>
-```
-
-Hee-Lee Oss commits the work, opens the PR, and records a deed receipt. The output goes to the project. The beneficiary gets it when it merges.
+**→ [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)** — CLI setup, step-by-step instructions, loop scripts, agent adapters, and full documentation.
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
@@ -109,13 +83,7 @@ Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Do
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-## 🟡 Get everything you need
-
-**→ [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)** — CLI setup, loop scripts, agent adapters, and full documentation.
-
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
-
-## 🟠 What is being built here
+## 🟡 What is being built here
 
 171 open projects across:
 
@@ -127,7 +95,7 @@ Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Do
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-## 🔴 Governance
+## 🟠 Governance
 
 After your first **merged** PR you can vote on new project proposals. Comment `/vote for|against|abstain` on any open issue in the [registry](https://github.com/Hee-Lee-Oss-Projects/registry/issues).
 
