@@ -1,0 +1,42 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hee-Lee Oss Projects sunburst banner">
+  <defs>
+    <radialGradient id="sunCore" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#FFF3C4"/>
+      <stop offset="55%" stop-color="#FFD35C"/>
+      <stop offset="100%" stop-color="#FF9F3C"/>
+    </radialGradient>
+    <linearGradient id="bgFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFDF5"/>
+      <stop offset="100%" stop-color="#FFF7E8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bgFade)"/>
+
+  <!-- sunburst: each ray's angular width is proportional to that category's live repo count -->
+  <g>
+    <path d="M 215.01 93.98 L 237.53 9.94 A 145 145 0 0 1 325.57 77.50 L 250.23 121.00 A 58 58 0 0 0 215.01 93.98 Z" fill="#FFCB47" stroke="#FFF8E7" stroke-width="2"/>
+    <path d="M 250.23 121.00 L 325.57 77.50 A 145 145 0 0 1 343.21 172.68 L 257.29 159.07 A 58 58 0 0 0 250.23 121.00 Z" fill="#FFB238" stroke="#FFF8E7" stroke-width="2"/>
+    <path d="M 257.29 159.07 L 343.21 172.68 A 145 145 0 0 1 321.61 228.97 L 248.64 181.59 A 58 58 0 0 0 257.29 159.07 Z" fill="#FF9A3C" stroke="#FFF8E7" stroke-width="2"/>
+    <path d="M 248.64 181.59 L 321.61 228.97 A 145 145 0 0 1 283.17 268.78 L 233.27 197.51 A 58 58 0 0 0 248.64 181.59 Z" fill="#FF8247" stroke="#FFF8E7" stroke-width="2"/>
+    <path d="M 233.27 197.51 L 283.17 268.78 A 145 145 0 0 1 237.53 290.06 L 215.01 206.02 A 58 58 0 0 0 233.27 197.51 Z" fill="#FF6B4A" stroke="#FFF8E7" stroke-width="2"/>
+  </g>
+  <circle cx="200" cy="150" r="58" fill="url(#sunCore)" stroke="#FFF3C4" stroke-width="3"/>
+
+  <text x="370" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="33" font-weight="700" fill="#4A2E12">Hee-Lee Oss Projects</text>
+  <text x="372" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8A6A3A">Turn spare AI capacity into open-source good deeds</text>
+  <text x="372" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#A9875A">Ray width = live repo count per category &#8594;</text>
+
+  <line x1="772" y1="30" x2="772" y2="272" stroke="#F0D9AE" stroke-width="1"/>
+
+    <circle cx="800" cy="62" r="7" fill="#FFCB47"/>
+    <text x="818" y="67" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#4A3220">Open Data &amp; Knowledge &#183; 45 repos</text>
+    <circle cx="800" cy="104" r="7" fill="#FFB238"/>
+    <text x="818" y="109" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#4A3220">Cancer Research &#183; 39 repos</text>
+    <circle cx="800" cy="146" r="7" fill="#FF9A3C"/>
+    <text x="818" y="151" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#4A3220">Accessibility &amp; Language &#183; 24 repos</text>
+    <circle cx="800" cy="188" r="7" fill="#FF8247"/>
+    <text x="818" y="193" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#4A3220">Education &amp; Literacy &#183; 22 repos</text>
+    <circle cx="800" cy="230" r="7" fill="#FF6B4A"/>
+    <text x="818" y="235" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#4A3220">Community &amp; Public Benefit &#183; 20 repos</text>
+</svg>

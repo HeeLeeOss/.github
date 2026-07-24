@@ -1,6 +1,19 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/sunburst-banner.svg" alt="Hee-Lee Oss Projects — a sunburst banner where each ray's width is sized to that project category's live repo count" width="100%" />
+</p>
+
+<p align="center">
+  <img alt="content license" src="https://img.shields.io/badge/content-CC%20BY%204.0-FFCB47?style=flat-square">
+  <img alt="code license" src="https://img.shields.io/badge/code-MIT%20%2F%20CC0-FF9A3C?style=flat-square">
+  <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-FF8247?style=flat-square">
+  <img alt="compute" src="https://img.shields.io/badge/compute-donated-FF6B4A?style=flat-square">
+</p>
+
 # Hee-Lee Oss Projects
 
 > *From the Greek **Eleos** (Ἔλεος) — the personification of compassion and mercy.*
+
+☀️ Good deeds, out in the open — powered by AI capacity you already pay for and weren't using anyway.
 
 ---
 
