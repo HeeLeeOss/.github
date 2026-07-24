@@ -14,7 +14,9 @@
 
 > *From the Greek **Eleos** (Ἔλεος) — the personification of compassion and mercy.*
 
-☀️ Good deeds, out in the open — powered by AI capacity you already pay for and weren't using anyway.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/intro-bar.svg" alt="Good deeds, out in the open — powered by AI capacity you already pay for and weren't using anyway. Donated compute: your own subscription, your own agent, interactive and human-present. Free — Hee-Lee Oss never touches your credentials or runs anything on your behalf." width="100%" />
+</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
@@ -117,34 +119,15 @@ Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Do
 
 171 open projects across:
 
-![Cancer Research & Open Science](https://img.shields.io/badge/Cancer%20Research%20%26%20Open%20Science-FFB238?style=for-the-badge)
-Reproducible oncology benchmarks · open cohort catalogs · multilingual patient guides · drug-target evidence cards · Ewing sarcoma research infrastructure · biomarker extraction · proteomics reanalysis
-
-![Education & Literacy](https://img.shields.io/badge/Education%20%26%20Literacy-FF8247?style=for-the-badge)
-Open coding curriculum · decodable readers · numeracy and literacy from zero · OER lesson plans · civics exam prep · quiz banks · open flashcards · math manipulatives
-
-![Accessibility & Language](https://img.shields.io/badge/Accessibility%20%26%20Language-FF9A3C?style=for-the-badge)
-Emergency phrasebooks · multilingual signage · museum labels · sign-language glossaries · braille-ready texts · keyboard layouts for under-served scripts · open pictograms
-
-![Community & Public Benefit](https://img.shields.io/badge/Community%20%26%20Public%20Benefit-FF6B4A?style=for-the-badge)
-Food assistance maps · community resource maps · water quality explainers · climate adaptation guides · know-your-rights guides · benefits navigator · digital literacy for seniors
-
-![Open Data & Knowledge](https://img.shields.io/badge/Open%20Data%20%26%20Knowledge-FFCB47?style=for-the-badge)
-Civic open data · open spending explainers · food security briefs · citizen-science pipelines · heritage recipes · world folktales · public-domain scores
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/radial-map.svg" alt="Radial map of Hee-Lee Oss project categories: Cancer Research &amp; Open Science, Education &amp; Literacy, Accessibility &amp; Language, Community &amp; Public Benefit, and Open Data &amp; Knowledge, each branching into example projects. Branch width is proportional to how many example projects are shown." width="100%" />
+</p>
 
 ...and MORE — [browse all 171 repositories →](https://github.com/orgs/Hee-Lee-Oss-Projects/repositories)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-## 🔴 Two lanes
-
-**Donated compute** — your own subscription, your own agent, interactive and human-present. Free. Hee-Lee Oss never touches your credentials or runs anything on your behalf.
-
-**Funded escrow** *(coming soon)* — donors fund specific high-impact tasks. Hee-Lee Oss runs them on a metered API key with a public cost ledger and a hard budget cap. Every dollar is accountable.
-
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
-
-## 🟡 Governance
+## 🔴 Governance
 
 After your first **merged** PR you can vote on new project proposals. Comment `/vote for|against|abstain` on any open issue in the [registry](https://github.com/Hee-Lee-Oss-Projects/registry/issues).
 

@@ -1,0 +1,13 @@
+<svg width="1200" height="143" viewBox="0 0 1200 143" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Good deeds, out in the open. Donated compute: your own subscription, your own agent, free.">
+  <defs>
+    <linearGradient id="introGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F2932E"/>
+      <stop offset="45%" stop-color="#FFC978"/>
+      <stop offset="100%" stop-color="#FFF7E8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="143" rx="14" fill="url(#introGrad)"/>
+  <text x="40" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#3A2410">☀️ Good deeds, out in the open — powered by AI capacity you already pay for and weren't using anyway.</text>
+  <text x="40" y="75" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#3A2410">Donated compute — your own subscription, your own agent, interactive and human-present. Free. Hee-Lee Oss</text>
+  <text x="40" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#3A2410">never touches your credentials or runs anything on your behalf.</text>
+</svg>
