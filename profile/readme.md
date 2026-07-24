@@ -20,12 +20,6 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-|  🌍 What it is | 🛠️ What we're building |
-|---|---|
-| Turn spare AI capacity into open-source good deeds — shipped to **real beneficiaries**, not just merged. | **171 open projects** across cancer research, education, accessibility, open science &amp; public-benefit tools. |
-
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
-
 **What if you could do one good deed this week?**
 **What if you could do a hundred?**
 **What if you could do a thousand — every single week — just by not wasting what you already pay for?**
@@ -82,7 +76,7 @@ Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Do
 171 open projects across:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/radial-map.svg" alt="Radial map of Hee-Lee Oss project categories: Cancer Research &amp; Open Science, Education &amp; Literacy, Accessibility &amp; Language, Community &amp; Public Benefit, and Open Data &amp; Knowledge, each branching into example projects. Branch width is proportional to how many example projects are shown." width="100%" />
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/radial-map.svg" alt="Map of Hee-Lee Oss project categories: Cancer Research &amp; Open Science, Education &amp; Literacy, Accessibility &amp; Language, Community &amp; Public Benefit, and Open Data &amp; Knowledge, each branching into labeled example-project cards." width="100%" />
 </p>
 
 ...and MORE — [browse all 171 repositories →](https://github.com/orgs/Hee-Lee-Oss-Projects/repositories)
