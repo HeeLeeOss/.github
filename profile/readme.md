@@ -15,7 +15,7 @@
 > *From the Greek **Eleos** (Ἔλεος) — the personification of compassion and mercy.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/intro-bar.svg" alt="Good deeds, out in the open — powered by AI capacity you already pay for and weren't using anyway. Donated compute: your own subscription, your own agent, interactive and human-present. Free — Hee-Lee Oss never touches your credentials or runs anything on your behalf." width="100%" />
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/intro-bar.svg" alt="Every week, millions of AI credits expire unused. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. Hee-Lee Oss gives that capacity a purpose. Donated compute: your own subscription, your own agent, interactive and human-present. Free — Hee-Lee Oss never touches your credentials or runs anything on your behalf." width="100%" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
@@ -30,7 +30,7 @@
 **What if you could do a hundred?**
 **What if you could do a thousand — every single week — just by not wasting what you already pay for?**
 
-Every week, millions of AI credits expire unused. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. Hee-Lee Oss gives that capacity a purpose.
+☀️ Good deeds, out in the open — powered by AI capacity you already pay for and weren't using anyway.
 
 **Run your AI agent against a real community project. Do good works. Ship it.**
 
