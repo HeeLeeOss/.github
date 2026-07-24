@@ -26,9 +26,9 @@
    ·  <a href="https://github.com/orgs/Hee-Lee-Oss-Projects/repositories">Browse 171 projects</a>
 </p>
 
-|  🌍 What it is | 🛠️ What we're building | 🚀 Get started · 1‑2‑3 |
-|---|---|---|
-| Turn spare AI capacity into open-source good deeds — shipped to **real beneficiaries**, not just merged. | **171 open projects** across cancer research, education, accessibility, open science &amp; public-benefit tools. | **1.** [Download the toolkit](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads) ⬇️<br>**2.** `hee-lee-oss init`<br>**3.** Pick a task — your agent does the rest |
+|  🌍 What it is | 🛠️ What we're building |
+|---|---|
+| Turn spare AI capacity into open-source good deeds — shipped to **real beneficiaries**, not just merged. | **171 open projects** across cancer research, education, accessibility, open science &amp; public-benefit tools. |
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
