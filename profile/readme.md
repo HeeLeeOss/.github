@@ -63,7 +63,7 @@ Beyond a single one-off task, there's more than one way to put your capacity to 
 
 **Claude Code plugin** — the smoothest path if you already live in Claude Code. Install it once and Hee-Lee Oss becomes part of the conversation: ask your agent to start a deed, keep going while you've got capacity, or check how much you've done — no separate CLI window, no context-switching.
 
-All three enforce the same rule: no `ANTHROPIC_API_KEY`, ever. Hee-Lee Oss only ever runs on the subscription you're already paying for.
+Hee-Lee Oss only ever runs on the subscription you're already paying for.
 
 Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)**.
 
