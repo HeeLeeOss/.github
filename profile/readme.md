@@ -12,10 +12,14 @@
 
 # Hee-Lee Oss Projects
 
-> *From the Greek **Eleos** (Ἔλεος) — the personification of compassion and mercy.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/greek-quote-bar.svg" alt="From the Greek Eleos (Ἔλεος) — the personification of compassion and mercy." width="100%" />
+</p>
+
+**Every week, millions of AI credits expire unused. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. Hee-Lee Oss gives that capacity a purpose.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/intro-bar.svg" alt="Every week, millions of AI credits expire unused. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. Hee-Lee Oss gives that capacity a purpose. Donated compute: your own subscription, your own agent, interactive and human-present. Free — Hee-Lee Oss never touches your credentials or runs anything on your behalf." width="100%" />
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/donated-compute-bar.svg" alt="Donated compute: your own subscription, your own agent, interactive and human-present. Free — Hee-Lee Oss never touches your credentials or runs anything on your behalf." width="100%" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
