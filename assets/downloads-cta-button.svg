@@ -1,0 +1,17 @@
+<svg width="640" height="118" viewBox="0 0 640 118" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Get started with Hee-Lee Oss Downloads: step-by-step instructions, loop scripts, agent adapters, and full documentation.">
+  <defs>
+    <linearGradient id="ctaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A6FB0"/>
+      <stop offset="55%" stop-color="#0969DA"/>
+      <stop offset="100%" stop-color="#0B4C8C"/>
+    </linearGradient>
+    <filter id="ctaShadow" x="-20%" y="-40%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="#0B4C8C" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect x="8" y="6" width="624" height="94" rx="22" fill="url(#ctaGrad)" filter="url(#ctaShadow)"/>
+
+  <text x="320.0" y="53" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">&#8681; Get Started &#8212; Hee-Lee Oss Downloads</text>
+  <text x="320.0" y="80" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" fill="#FFF3DE">step-by-step instructions &#183; loop scripts &#183; agent adapters &#183; full documentation</text>
+</svg>

@@ -29,9 +29,11 @@ That capacity doesn't roll over — it just disappears, week after week, unless 
 Install Hee-Lee Oss, and get to work — with Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported. Hee-Lee Oss commits the work, opens the PR, and records a deed receipt.
 
 <p align="center">
-  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><img alt="Hee-Lee Oss Downloads" src="https://img.shields.io/badge/%E2%86%92%20Hee--Lee%20Oss%20Downloads-FF8247?style=for-the-badge"></a>
+  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads">
+    <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/downloads-cta-button.svg" alt="Get started — Hee-Lee Oss Downloads: step-by-step instructions, loop scripts, agent adapters, and full documentation." />
+  </a>
   <br/>
-  <sub>step-by-step instructions &#183; loop scripts &#183; agent adapters &#183; full documentation</sub>
+  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><b>Hee-Lee Oss Downloads &#8594;</b></a>
 </p>
 
 <p align="center">
