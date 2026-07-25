@@ -55,7 +55,7 @@ A single deed, merged once, can reach people across the world for decades. That 
 
 ## 🔴 More ways to run Hee-Lee Oss
 
-Beyond a single one-off task, there's more than one way to put your capacity to work.
+There's more than one way to put your capacity to work.
 
 **Control Room** — a desktop mission control for your loops: spawn a worker pane per project, watch each one run live in its own embedded terminal, and let an orchestrator coordinate them across your session. Guided setup and a project picker mean you're never hand-editing a config file.
 
