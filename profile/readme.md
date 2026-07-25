@@ -26,7 +26,7 @@ That capacity doesn't roll over — it just disappears, week after week, unless 
 
 ## 🟡 How it works
 
-Install the CLI, browse the open tasks, point any AI agent at one — Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported — and submit. Hee-Lee Oss commits the work, opens the PR, and records a deed receipt.
+Install Hee-Lee Oss, and get to work — with Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported. Hee-Lee Oss commits the work, opens the PR, and records a deed receipt.
 
 **→ [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)** — CLI setup, step-by-step instructions, loop scripts, agent adapters, and full documentation.
 
