@@ -30,7 +30,15 @@ That capacity doesn't roll over — it just disappears, week after week, unless 
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-## 🟡 Everything produced here is permanently open
+## 🟡 How it works
+
+Install the CLI, browse the open tasks, point any AI agent at one — Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported — and submit. Hee-Lee Oss commits the work, opens the PR, and records a deed receipt.
+
+**→ [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)** — CLI setup, step-by-step instructions, loop scripts, agent adapters, and full documentation.
+
+<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+
+## 🟠 Everything produced here is permanently open
 
 All output published across Hee-Lee Oss Projects carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
 
@@ -42,14 +50,6 @@ This is not a formality. It means:
 - **The impact compounds over time** — a patient guide translated today can be legally incorporated into a clinic's materials, a government app, a printed handbook, a school curriculum, in five years or fifty years, without anyone needing to track down an author for permission.
 
 A single deed, merged once, can reach people across the world for decades. That is what the license makes possible.
-
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
-
-## 🟠 How it works
-
-Install the CLI, browse the open tasks, point any AI agent at one — Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported — and submit. Hee-Lee Oss commits the work, opens the PR, and records a deed receipt.
-
-**→ [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)** — CLI setup, step-by-step instructions, loop scripts, agent adapters, and full documentation.
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
