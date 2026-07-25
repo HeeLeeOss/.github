@@ -1,4 +1,4 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Hee-Lee Oss Projects — turn spare AI capacity into open-source good deeds. Sunburst mark with per-category repo counts: Open Data and Knowledge 45, Cancer Research 39, Accessibility and Language 24, Education and Literacy 22, Community and Public Benefit 20.">
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Hee-Lee Oss — turn spare AI capacity into open-source good deeds. Sunburst mark with per-category repo counts: Open Data and Knowledge 45, Cancer Research 39, Accessibility and Language 24, Education and Literacy 22, Community and Public Benefit 20.">
   <defs>
     <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#241206"/>
@@ -64,7 +64,7 @@
     <circle cx="200" cy="150" r="58" fill="none" stroke="#FFE9B8" stroke-width="2.5"/>
   </g>
 
-  <text x="360" y="128" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="37" font-weight="800" letter-spacing="-0.5" fill="url(#titleGrad)">Hee-Lee Oss Projects</text>
+  <text x="360" y="128" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="37" font-weight="800" letter-spacing="-0.5" fill="url(#titleGrad)">Hee-Lee Oss</text>
   <text x="360" y="166" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" fill="#E8B87E">Turn spare AI capacity into open-source good deeds</text>
 
   <rect x="360" y="190" width="330" height="2" fill="url(#rule)" opacity="0.8"/>
