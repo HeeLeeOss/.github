@@ -28,9 +28,9 @@ Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for 
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter-good.svg?v=3" alt="Usage credits: 99% used, 1% left open. Capacity put to work: 74% put to good deeds." width="100%" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+### 🤲 Everything produced here is permanently open
 
-## 🤲 Everything produced here is permanently open
+<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
 All output published across Hee-Lee Oss Projects carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
 
@@ -51,9 +51,9 @@ A single deed, merged once, can reach people across the world for decades. That 
   <img alt="last commit" src="https://img.shields.io/github/last-commit/Hee-Lee-Oss-Projects/.github?style=flat-square&color=FFB238&labelColor=3A2410&label=updated">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+### ⚙️ More ways to run Hee-Lee Oss
 
-## ⚙️ More ways to run Hee-Lee Oss
+<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
 There's more than one way to put your capacity to work.
 
@@ -74,9 +74,9 @@ Hee-Lee Oss only ever runs on the subscription you're already paying for.
 
 Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)**.
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+### ❓ What is being built here
 
-## ❓ What is being built here
+<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/category-grid.svg" alt="Map of Hee-Lee Oss project categories: Open Data &amp; Knowledge, Cancer Research &amp; Open Science, Accessibility &amp; Language, Education &amp; Literacy, and Community &amp; Public Benefit, each a card listing example projects." width="100%" />
