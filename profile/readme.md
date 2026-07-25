@@ -30,11 +30,11 @@ Install Hee-Lee Oss, and get to work — with Claude Code, Gemini CLI, Cursor, C
 
 <p align="center">
   <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads">
-    <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/downloads-cta-button.svg" alt="Get started — Hee-Lee Oss Downloads: step-by-step instructions, loop scripts, agent adapters, and full documentation." />
+    <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/downloads-cta-button.svg" alt="Hee-Lee Oss Downloads" />
   </a>
-  <br/>
-  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><b>Hee-Lee Oss Downloads &#8594;</b></a>
 </p>
+
+**[Hee-Lee Oss Downloads →](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)** — step-by-step instructions, loop scripts, agent adapters, and full documentation.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter-good.svg" alt="Usage credits: 99% used. Put the capacity to work, for good." width="100%" />
