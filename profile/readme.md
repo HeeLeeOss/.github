@@ -57,11 +57,11 @@ A single deed, merged once, can reach people across the world for decades. That 
 
 Beyond a single one-off task, there's more than one way to put your capacity to work.
 
+**Control Room** — a desktop mission control for your loops: spawn a worker pane per project, watch each one run live in its own embedded terminal, and let an orchestrator coordinate them across your session. Guided setup and a project picker mean you're never hand-editing a config file.
+
 **Loop scripts** — available for Windows (PowerShell) and macOS/Linux (bash). They handle the full cycle automatically: pick a task, run your agent, submit the PR, move to the next one. Auto model selection matches each task's risk to the right model tier, a configurable session cap keeps a run from overrunning the queue, and dry-run mode lets you verify a session before committing to it.
 
 **Claude Code plugin** — the smoothest path if you already live in Claude Code. Install it once and Hee-Lee Oss becomes part of the conversation: ask your agent to start a deed, keep going while you've got capacity, or check how much you've done — no separate CLI window, no context-switching.
-
-**Control Room** — a desktop mission control for your loops: spawn a worker pane per project, watch each one run live in its own embedded terminal, and let an orchestrator coordinate them across your session. Guided setup and a project picker mean you're never hand-editing a config file.
 
 All three enforce the same rule: no `ANTHROPIC_API_KEY`, ever. Hee-Lee Oss only ever runs on the subscription you're already paying for.
 
