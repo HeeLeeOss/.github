@@ -10,7 +10,7 @@ Every week, **millions of AI credits expire unused**. Claude Pro sessions, Gemin
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter.svg" alt="This week's unused AI capacity: 25% used. The rest expires in 12 hours and disappears." width="100%" />
 </p>
 
-That capacity doesn't roll over — it just disappears, week after week, unless something puts it to work. What if you could do one good deed this week? What if you could do a hundred? What if you could do a thousand — every single week — just by not wasting what you already pay for?
+That capacity doesn't roll over — it just disappears, week after week, unless something puts it to work. What if you could do one good deed this week? What if you could do a hundred? A thousand — every single week — just by not wasting what you already pay for?
 
 Good deeds, out in the open — your own subscription, your own agent. Hee-Lee Oss **never touches your credentials or runs anything on your behalf**.
 
