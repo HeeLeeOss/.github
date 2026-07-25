@@ -14,9 +14,9 @@ That capacity doesn't roll over — it just disappears, week after week. Ignite 
 
 Good deeds, out in the open — your own subscription, your own agent. Hee-Lee Oss **never touches your credentials or runs anything on your behalf**.
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+### 🔧 How it works
 
-## 🔧 How it works
+<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
 Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for the good of mankind. Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported.
 
