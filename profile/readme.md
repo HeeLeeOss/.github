@@ -47,17 +47,17 @@ A single deed, merged once, can reach people across the world for decades. That 
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-## 🔴 Scale up with the loop scripts
+## 🔴 More ways to run Hee-Lee Oss
 
-The real power of Hee-Lee Oss is running at scale. The loop scripts — available for Windows (PowerShell) and macOS/Linux (bash) in [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads) — handle the full cycle automatically: pick a task, run your agent, submit the PR, move to the next one. You set a count and walk away.
+Beyond a single one-off task, there's more than one way to put your capacity to work.
 
-Key capabilities:
+**Loop scripts** — available for Windows (PowerShell) and macOS/Linux (bash) in [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads). They handle the full cycle automatically: pick a task, run your agent, submit the PR, move to the next one. Auto model selection matches each task's risk to the right model tier, a configurable session cap keeps a run from overrunning the queue, and dry-run mode lets you verify a session before committing to it.
 
-- **Run as many deeds as you want in a single session** — the loop processes tasks one at a time, resetting context between each, so you never hit per-conversation limits
-- **Auto model selection** — the loop reads each task's effort and risk level and picks the right model tier automatically: high-stakes tasks get the most capable model, simple tasks get a fast lightweight one — stretching your subscription further
-- **Target a specific project or auto-pick** — focus your capacity on one project or let Hee-Lee Oss pull from the highest-priority work across all 171+ repositories
-- **Session cap** — a configurable ceiling on how many active claims you hold at once, so the loop stops cleanly rather than overrunning the queue
-- **Dry-run mode** — prepares workspaces without running the agent or opening PRs, so you can verify your setup before committing to a long session
+**Claude Code plugin** — install with `/plugin marketplace add jdev1977/hee-lee-oss` then `/plugin install hee-lee-oss`, and run entirely from slash commands: `/hee-lee-oss:start`, `/hee-lee-oss:next` to keep looping while you have capacity, and `/hee-lee-oss:status` to check in.
+
+**Control Room** *(early build)* — a desktop app with a live embedded terminal, so you can watch a run happen instead of reading scrollback in your own shell. It's still early — today it's a single button that runs setup checks live in the window — but it's the start of a proper control surface for the loop.
+
+All three enforce the same rule: no `ANTHROPIC_API_KEY`, ever. Hee-Lee Oss only ever runs on the subscription you're already paying for.
 
 Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)**.
 
