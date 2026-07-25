@@ -15,10 +15,6 @@
 **Every week, millions of AI credits expire unused. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. Hee-Lee Oss gives that capacity a purpose.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/donated-compute-bar.svg" alt="Donated compute: your own subscription, your own agent, interactive and human-present. Free — Hee-Lee Oss never touches your credentials or runs anything on your behalf." width="100%" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter.svg" alt="This week's unused AI capacity: 25% used. The rest expires in 12 hours and disappears." width="100%" />
 </p>
 
@@ -30,7 +26,7 @@ That capacity doesn't roll over — it just disappears, week after week, unless 
 **What if you could do a hundred?**
 **What if you could do a thousand — every single week — just by not wasting what you already pay for?**
 
-☀️ Good deeds, out in the open — powered by AI capacity you already pay for and weren't using anyway. **Run your AI agent against a real community project. Do good works. Ship it.**
+☀️ Good deeds, out in the open — donated compute: your own subscription, your own agent, interactive and human-present. Free — Hee-Lee Oss never touches your credentials or runs anything on your behalf. **Run your AI agent against a real community project. Do good works. Ship it.**
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
