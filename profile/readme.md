@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/HeeLeeOss/hee-lee-oss-downloads">
-    <img src="https://raw.githubusercontent.com/HeeLeeOss/.github/main/assets/hero-banner.svg?v=2" alt="Hee-Lee Oss Projects — turn spare AI capacity into open-source good deeds. Each sunburst ray's width is sized to that project category's live repo count." width="100%" />
+    <img src="https://raw.githubusercontent.com/HeeLeeOss/.github/main/assets/hero-banner.svg?v=2" alt="Hee-Lee Oss — turn spare AI capacity into open-source good deeds. Each sunburst ray's width is sized to that project category's live repo count." width="100%" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for 
 
 <p align="center"><img src="https://raw.githubusercontent.com/HeeLeeOss/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-All output published across Hee-Lee Oss Projects carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
+All output published across Hee-Lee Oss carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
 
 This is not a formality. It means:
 
