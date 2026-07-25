@@ -67,13 +67,11 @@ Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Do
 
 ## 🟡 What is being built here
 
-171 open projects across:
+[Browse all 171 repositories →](https://github.com/orgs/Hee-Lee-Oss-Projects/repositories)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/radial-map.svg" alt="Map of Hee-Lee Oss project categories: Cancer Research &amp; Open Science, Education &amp; Literacy, Accessibility &amp; Language, Community &amp; Public Benefit, and Open Data &amp; Knowledge, each branching into labeled example-project cards." width="100%" />
 </p>
-
-...and MORE — [browse all 171 repositories →](https://github.com/orgs/Hee-Lee-Oss-Projects/repositories)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
