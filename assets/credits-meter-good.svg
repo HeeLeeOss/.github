@@ -14,12 +14,11 @@
     <clipPath id="iconClip">
       <circle cx="946.0" cy="87.0" r="26"/>
     </clipPath>
-    <filter id="greenGlow" x="-60%" y="-300%" width="220%" height="700%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="blur"/>
-      </feMerge>
+    <filter id="haloOuter" x="-80%" y="-500%" width="260%" height="1100%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <filter id="haloInner" x="-60%" y="-350%" width="220%" height="800%">
+      <feGaussianBlur stdDeviation="7"/>
     </filter>
   </defs>
 
@@ -30,7 +29,8 @@
   <path d="M 495.4 77 L 486.4 59 L 504.4 59 Z" fill="#D8322A"/>
 
   <rect x="40" y="80" width="460" height="14" rx="7" fill="#FCEBD1"/>
-  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#5FAE4E" opacity="0.85" filter="url(#greenGlow)"/>
+  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFC93C" opacity="0.55" filter="url(#haloOuter)"/>
+  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFE29A" opacity="0.85" filter="url(#haloInner)"/>
   <g clip-path="url(#barClip)">
     <rect x="40" y="80" width="115.0" height="14" fill="url(#fillGradOrange)"/>
     <rect x="155.0" y="80" width="340.4" height="14" fill="url(#fillGradGreen)"/>
