@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Every week, **millions of AI credits expire unused**. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. **Hee-Lee Oss gives that capacity a purpose**.
+Every week, **millions of AI credits expire unused**. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter.svg" alt="This week's unused AI capacity: 25% used. The rest expires in 12 hours and disappears." width="100%" />
