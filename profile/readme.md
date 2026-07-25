@@ -53,7 +53,7 @@ Beyond a single one-off task, there's more than one way to put your capacity to 
 
 **Loop scripts** — available for Windows (PowerShell) and macOS/Linux (bash) in [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads). They handle the full cycle automatically: pick a task, run your agent, submit the PR, move to the next one. Auto model selection matches each task's risk to the right model tier, a configurable session cap keeps a run from overrunning the queue, and dry-run mode lets you verify a session before committing to it.
 
-**Claude Code plugin** — install with `/plugin marketplace add jdev1977/hee-lee-oss` then `/plugin install hee-lee-oss`, and run entirely from slash commands: `/hee-lee-oss:start`, `/hee-lee-oss:next` to keep looping while you have capacity, and `/hee-lee-oss:status` to check in.
+**Claude Code plugin** — install with `/plugin marketplace add Hee-Lee-Oss-Projects/hee-lee-oss-downloads` then `/plugin install hee-lee-oss`, and run entirely from slash commands: `/hee-lee-oss:start`, `/hee-lee-oss:next` to keep looping while you have capacity, and `/hee-lee-oss:status` to check in.
 
 **Control Room** *(early build)* — a desktop app with a live embedded terminal, so you can watch a run happen instead of reading scrollback in your own shell. It's still early — today it's a single button that runs setup checks live in the window — but it's the start of a proper control surface for the loop.
 
