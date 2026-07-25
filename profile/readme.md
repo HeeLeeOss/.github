@@ -20,7 +20,7 @@ Every week, **millions of AI credits expire unused**. Claude Pro sessions, Gemin
 
 That capacity doesn't roll over — it just disappears, week after week, unless something puts it to work. **What if you could do one good deed this week? What if you could do a hundred? What if you could do a thousand — every single week — just by not wasting what you already pay for?**
 
-☀️ Good deeds, out in the open — your own subscription, your own agent. Hee-Lee Oss **never touches your credentials or runs anything on your behalf**. Run your AI agent against a real community project. **Do good works. Ship it.**
+☀️ Good deeds, out in the open — your own subscription, your own agent. Hee-Lee Oss **never touches your credentials or runs anything on your behalf**.
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
