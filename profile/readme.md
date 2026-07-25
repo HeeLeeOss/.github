@@ -77,6 +77,8 @@ Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Do
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/radial-map.svg" alt="Map of Hee-Lee Oss project categories: Cancer Research &amp; Open Science, Education &amp; Literacy, Accessibility &amp; Language, Community &amp; Public Benefit, and Open Data &amp; Knowledge, each branching into labeled example-project cards." width="100%" />
 </p>
 
+Five categories: **Cancer Research & Open Science**, **Education & Literacy**, **Accessibility & Language**, **Community & Public Benefit**, and **Open Data & Knowledge**.
+
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
 ## 🟠 Governance
