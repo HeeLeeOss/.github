@@ -14,22 +14,6 @@ That capacity doesn't roll over — it just disappears, week after week. Ignite 
 
 Good deeds, out in the open — your own subscription, your own agent. Hee-Lee Oss **never touches your credentials or runs anything on your behalf**.
 
-<p align="center">
-  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/btn-downloads.svg" alt="Get Hee-Lee Oss — Downloads" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/orgs/Hee-Lee-Oss-Projects/repositories"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/btn-browse.svg" alt="Browse all 171 repositories" height="50" /></a>
-</p>
-
-<p align="center">
-  <a href="#-how-it-works"><b>How it works</b></a>
-  &nbsp;&#183;&nbsp;
-  <a href="#-everything-produced-here-is-permanently-open"><b>Permanently open</b></a>
-  &nbsp;&#183;&nbsp;
-  <a href="#%EF%B8%8F-more-ways-to-run-hee-lee-oss"><b>Ways to run</b></a>
-  &nbsp;&#183;&nbsp;
-  <a href="#-what-is-being-built-here"><b>What is being built</b></a>
-</p>
-
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
 ## 🔧 How it works
