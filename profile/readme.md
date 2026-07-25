@@ -65,12 +65,12 @@ There's more than one way to put your capacity to work.
   <tr>
     <th align="left">🖥&nbsp; Control Room <i>(Recommended)</i></th>
     <th align="left">🔁&nbsp; Loop scripts</th>
-    <th align="left">💬&nbsp; Claude Code plugin</th>
+    <th align="left">💬&nbsp; Agent plugins</th>
   </tr>
   <tr>
     <td valign="top" width="33%">A desktop mission control for your loops: spawn a worker pane per project, watch each one run live in its own embedded terminal, and let an orchestrator coordinate them across your session. Guided setup and a project picker mean you're never hand-editing a config file.</td>
     <td valign="top" width="33%">For Windows (PowerShell) and macOS/Linux (bash). They orchestrate and control the agent plugin — Claude Code today, more to come — through the full cycle: pick a task, run the agent, submit the PR, move on. Auto model selection, a session cap, and dry-run mode keep every run in check.</td>
-    <td valign="top" width="33%">The smoothest path if you already live in Claude Code. Install it once and Hee-Lee Oss becomes part of the conversation: ask your agent to start a deed, keep going while you've got capacity, or check how much you've done — no separate CLI window, no context-switching.</td>
+    <td valign="top" width="33%">The smoothest path if you already live in your agent. Install one and Hee-Lee Oss becomes part of the conversation: ask your agent to start a deed, keep going while you've got capacity, or check how much you've done — no separate CLI window, no context-switching. Claude Code today, with more agents on the way.</td>
   </tr>
 </table>
 
