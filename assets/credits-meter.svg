@@ -17,4 +17,7 @@
   <text x="40" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#8A6A3A">25% used &#183; <tspan font-weight="700" fill="#C1481F">Expires in 12 hours</tspan></text>
 
   <text x="546" y="99.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" font-style="italic" fill="#E8672E">then poof &#128168;, it's gone.</text>
+
+  <circle cx="1160" cy="26" r="17" fill="#D8322A"/>
+  <path d="M 1153 19 L 1167 33 M 1167 19 L 1153 33" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
 </svg>
