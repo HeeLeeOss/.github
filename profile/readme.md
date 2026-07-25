@@ -2,14 +2,6 @@
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/sunburst-banner.svg" alt="Hee-Lee Oss Projects — a sunburst banner where each ray's width is sized to that project category's live repo count" width="100%" />
 </p>
 
-<p align="center">
-  <img alt="content license" src="https://img.shields.io/badge/content-CC%20BY%204.0-FFCB47?style=flat-square">
-  <img alt="code license" src="https://img.shields.io/badge/code-MIT%20%2F%20CC0-FF9A3C?style=flat-square">
-  <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-FF8247?style=flat-square">
-  <img alt="compute" src="https://img.shields.io/badge/compute-donated-FF6B4A?style=flat-square">
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/Hee-Lee-Oss-Projects/.github?style=flat-square&color=FFB238&label=updated">
-</p>
-
 # Hee-Lee Oss Projects
 
 Every week, **millions of AI credits expire unused**. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. **Hee-Lee Oss gives that capacity a purpose**.
@@ -50,6 +42,14 @@ This is not a formality. It means:
 - **The impact compounds over time** — a patient guide translated today can be legally incorporated into a clinic's materials, a government app, a printed handbook, a school curriculum, in five years or fifty years, without anyone needing to track down an author for permission.
 
 A single deed, merged once, can reach people across the world for decades. That is what the license makes possible.
+
+<p align="center">
+  <img alt="content license" src="https://img.shields.io/badge/content-CC%20BY%204.0-FFCB47?style=flat-square">
+  <img alt="code license" src="https://img.shields.io/badge/code-MIT%20%2F%20CC0-FF9A3C?style=flat-square">
+  <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-FF8247?style=flat-square">
+  <img alt="compute" src="https://img.shields.io/badge/compute-donated-FF6B4A?style=flat-square">
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/Hee-Lee-Oss-Projects/.github?style=flat-square&color=FFB238&label=updated">
+</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
