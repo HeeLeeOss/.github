@@ -14,10 +14,13 @@
     <clipPath id="iconClip">
       <circle cx="946.0" cy="87.0" r="26"/>
     </clipPath>
-    <filter id="haloOuter" x="-80%" y="-500%" width="260%" height="1100%">
+    <filter id="haloWide" x="-100%" y="-800%" width="300%" height="1700%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+    <filter id="haloOuter" x="-90%" y="-600%" width="280%" height="1300%">
       <feGaussianBlur stdDeviation="16"/>
     </filter>
-    <filter id="haloInner" x="-60%" y="-350%" width="220%" height="800%">
+    <filter id="haloInner" x="-70%" y="-400%" width="240%" height="900%">
       <feGaussianBlur stdDeviation="7"/>
     </filter>
   </defs>
@@ -29,8 +32,9 @@
   <path d="M 495.4 77 L 486.4 59 L 504.4 59 Z" fill="#D8322A"/>
 
   <rect x="40" y="80" width="460" height="14" rx="7" fill="#FCEBD1"/>
-  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFC93C" opacity="0.55" filter="url(#haloOuter)"/>
-  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFE29A" opacity="0.85" filter="url(#haloInner)"/>
+  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFC93C" opacity="0.6" filter="url(#haloWide)"/>
+  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFC93C" opacity="0.85" filter="url(#haloOuter)"/>
+  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFF0C2" opacity="1" filter="url(#haloInner)"/>
   <g clip-path="url(#barClip)">
     <rect x="40" y="80" width="115.0" height="14" fill="url(#fillGradOrange)"/>
     <rect x="155.0" y="80" width="340.4" height="14" fill="url(#fillGradGreen)"/>
