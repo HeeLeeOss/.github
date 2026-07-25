@@ -64,14 +64,14 @@
     <circle cx="200" cy="150" r="58" fill="none" stroke="#FFE9B8" stroke-width="2.5"/>
   </g>
 
-  <text x="392" y="132" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5" fill="url(#titleGrad)">Hee-Lee Oss Projects</text>
-  <text x="394" y="172" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" fill="#E8B87E">Turn spare AI capacity into open-source good deeds</text>
+  <text x="360" y="128" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="37" font-weight="800" letter-spacing="-0.5" fill="url(#titleGrad)">Hee-Lee Oss Projects</text>
+  <text x="360" y="166" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" fill="#E8B87E">Turn spare AI capacity into open-source good deeds</text>
 
-  <rect x="394" y="196" width="330" height="2" fill="url(#rule)" opacity="0.8"/>
+  <rect x="360" y="190" width="330" height="2" fill="url(#rule)" opacity="0.8"/>
 
-  <text x="394" y="232" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#C89058">171 repositories&#160;&#160;&#183;&#160;&#160;5 categories</text>
-  <text x="394" y="258" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#C89058">every output openly licensed</text>
-  <text x="394" y="286" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#9A6E42">Ray width = live repo count per category</text>
+  <text x="360" y="228" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#C89058">171 repositories&#160;&#160;&#183;&#160;&#160;5 categories</text>
+  <text x="360" y="254" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#C89058">every output openly licensed</text>
+  <text x="360" y="282" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#9A6E42">Ray width = live repo count per category</text>
 
   <!-- category legend: label + proportional bar -->
   <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">

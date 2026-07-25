@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads">
-    <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/hero-banner.svg" alt="Hee-Lee Oss Projects — turn spare AI capacity into open-source good deeds. Each sunburst ray's width is sized to that project category's live repo count." width="100%" />
+    <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/hero-banner.svg?v=2" alt="Hee-Lee Oss Projects — turn spare AI capacity into open-source good deeds. Each sunburst ray's width is sized to that project category's live repo count." width="100%" />
   </a>
 </p>
 
