@@ -32,12 +32,12 @@
   <path d="M 495.4 77 L 486.4 59 L 504.4 59 Z" fill="#D8322A"/>
 
   <rect x="40" y="80" width="460" height="14" rx="7" fill="#FCEBD1"/>
-  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFC93C" opacity="0.6" filter="url(#haloWide)"/>
-  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFC93C" opacity="0.85" filter="url(#haloOuter)"/>
-  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFF0C2" opacity="1" filter="url(#haloInner)"/>
+  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFC93C" opacity="0.6" filter="url(#haloWide)"><animate attributeName="width" values="0;340.4" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/></rect>
+  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFC93C" opacity="0.85" filter="url(#haloOuter)"><animate attributeName="width" values="0;340.4" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/></rect>
+  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#FFF0C2" opacity="1" filter="url(#haloInner)"><animate attributeName="width" values="0;340.4" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/></rect>
   <g clip-path="url(#barClip)">
     <rect x="40" y="80" width="115.0" height="14" fill="url(#fillGradOrange)"/>
-    <rect x="155.0" y="80" width="340.4" height="14" fill="url(#fillGradGreen)"/>
+    <rect x="155.0" y="80" width="340.4" height="14" fill="url(#fillGradGreen)"><animate attributeName="width" values="0;340.4" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/></rect>
   </g>
   <text x="40" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#8A6A3A">99% used</text>
 
