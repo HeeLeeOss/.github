@@ -1,12 +1,12 @@
 <svg width="1200" height="89" viewBox="0 0 1200 89" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Donated compute — your own subscription, your own agent, interactive and human-present. Free. Hee-Lee Oss never touches your credentials or runs anything on your behalf.">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F2932E"/>
-      <stop offset="45%" stop-color="#FFC978"/>
-      <stop offset="100%" stop-color="#FFF7E8"/>
+      <stop offset="0%" stop-color="#FFF7E8"/>
+      <stop offset="55%" stop-color="#FFE8C2"/>
+      <stop offset="100%" stop-color="#FFD199"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="89" rx="14" fill="url(#grad)"/>
-  <text x="40" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#3A2410">Donated compute — your own subscription, your own agent, interactive and human-present. Free. Hee-Lee Oss</text>
-  <text x="40" y="65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#3A2410">never touches your credentials or runs anything on your behalf.</text>
+  <text x="40" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#4A2E12">Donated compute — your own subscription, your own agent, interactive and human-present. Free. Hee-Lee Oss</text>
+  <text x="40" y="65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#4A2E12">never touches your credentials or runs anything on your behalf.</text>
 </svg>

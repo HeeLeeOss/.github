@@ -12,10 +12,6 @@
 
 # Hee-Lee Oss Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/greek-quote-bar.svg" alt="From the Greek Eleos (Ἔλεος) — the personification of compassion and mercy." width="100%" />
-</p>
-
 **Every week, millions of AI credits expire unused. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. Hee-Lee Oss gives that capacity a purpose.**
 
 <p align="center">
