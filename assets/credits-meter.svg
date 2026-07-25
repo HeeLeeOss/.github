@@ -1,0 +1,18 @@
+<svg width="1200" height="96" viewBox="0 0 1200 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="This week's unused AI capacity: 25% used, 75% about to expire in 12 hours and disappear.">
+  <defs>
+    <linearGradient id="fillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFCB47"/>
+      <stop offset="100%" stop-color="#FF8247"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="94" rx="14" fill="#FFFDF6" stroke="#F0D9AE" stroke-width="1.5"/>
+
+  <text x="40" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#4A2E12">This week's unused capacity</text>
+
+  <rect x="40" y="46" width="640" height="14" rx="7" fill="#FCEBD1"/>
+  <rect x="40" y="46" width="160.0" height="14" rx="7" fill="url(#fillGrad)"/>
+  <text x="694" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#C1481F">25% used</text>
+
+  <text x="40" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-style="italic" fill="#8A6A3A">The rest expires in 12h &#8212; then poof &#128168;, it's gone. Nobody gets that back, not even your financial advisor.</text>
+</svg>
