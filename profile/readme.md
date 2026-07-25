@@ -16,7 +16,7 @@ Good deeds, out in the open — your own subscription, your own agent. Hee-Lee O
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-## 🟡 How it works
+## 🔧 How it works
 
 Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for the good of mankind. Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported.
 
@@ -30,7 +30,7 @@ Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for 
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-## 🟠 Everything produced here is permanently open
+## 🤲 Everything produced here is permanently open
 
 All output published across Hee-Lee Oss Projects carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
 
@@ -53,7 +53,7 @@ A single deed, merged once, can reach people across the world for decades. That 
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-## 🔴 More ways to run Hee-Lee Oss
+## ⚙️ More ways to run Hee-Lee Oss
 
 There's more than one way to put your capacity to work.
 
