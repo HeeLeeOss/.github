@@ -51,6 +51,10 @@ A single deed, merged once, can reach people across the world for decades. That 
 
 Beyond a single one-off task, there's more than one way to put your capacity to work.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter-good.svg" alt="Usage credits: 99% used. Put the capacity to work, for good." width="100%" />
+</p>
+
 **Loop scripts** — available for Windows (PowerShell) and macOS/Linux (bash) in [Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads). They handle the full cycle automatically: pick a task, run your agent, submit the PR, move to the next one. Auto model selection matches each task's risk to the right model tier, a configurable session cap keeps a run from overrunning the queue, and dry-run mode lets you verify a session before committing to it.
 
 **Claude Code plugin** — install with `/plugin marketplace add Hee-Lee-Oss-Projects/hee-lee-oss-downloads` then `/plugin install hee-lee-oss`, and run entirely from slash commands: `/hee-lee-oss:start`, `/hee-lee-oss:next` to keep looping while you have capacity, and `/hee-lee-oss:status` to check in.

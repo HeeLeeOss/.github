@@ -1,0 +1,18 @@
+<svg width="1200" height="108" viewBox="0 0 1200 108" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Usage credits: 99% used. Put the capacity to work, for good.">
+  <defs>
+    <linearGradient id="fillGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFCB47"/>
+      <stop offset="100%" stop-color="#FF8247"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="106" rx="14" fill="#FFFDF6" stroke="#F0D9AE" stroke-width="1.5"/>
+
+  <text x="40" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#4A2E12">Usage Credits</text>
+
+  <rect x="40" y="54" width="460" height="14" rx="7" fill="#6FA84B"/>
+  <rect x="40" y="54" width="455.4" height="14" rx="7" fill="url(#fillGrad2)"/>
+  <text x="40" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8A6A3A">99% used</text>
+
+  <text x="546" y="73.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" font-style="italic" fill="#4F8A3D">Put the capacity to work&#8230; for good.</text>
+</svg>
