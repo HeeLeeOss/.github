@@ -10,7 +10,7 @@ Every week, **millions of AI credits expire unused**. Claude Pro sessions, Gemin
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter.svg" alt="This week's unused AI capacity: 25% used. The rest expires in 12 hours and disappears." width="100%" />
 </p>
 
-That capacity doesn't roll over — it just disappears, week after week, unless something puts it to work. What if you could do one good deed this week? What if you could do a hundred? A thousand — every single week — just by not wasting what you already pay for?
+That capacity doesn't roll over — it just disappears, week after week. Ignite it before it's gone. What if you could do one good deed this week? What if you could do a hundred? A thousand — every single week — just by not wasting what you already pay for?
 
 Good deeds, out in the open — your own subscription, your own agent. Hee-Lee Oss **never touches your credentials or runs anything on your behalf**.
 
@@ -18,7 +18,7 @@ Good deeds, out in the open — your own subscription, your own agent. Hee-Lee O
 
 ## 🟡 How it works
 
-Install Hee-Lee Oss, and get to work — with Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported.
+On the day your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for the good of mankind. Install once, and get to work — with Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported.
 
 <p align="center">
   <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><b>Hee-Lee Oss Downloads</b> <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/download-icon.svg" width="26" height="26" alt="" style="vertical-align:middle" /></a> — installers, step-by-step instructions, loop scripts, agent adapters, and full documentation.
