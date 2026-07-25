@@ -81,12 +81,6 @@ Five categories: **Cancer Research & Open Science**, **Education & Literacy**, *
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-## 🟠 Governance
-
-After your first **merged** PR you can vote on new project proposals. Comment `/vote for|against|abstain` on any open issue in the [registry](https://github.com/Hee-Lee-Oss-Projects/registry/issues).
-
-Have an idea for a good deed? [Propose a project →](https://github.com/Hee-Lee-Oss-Projects/registry/issues)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/footer-banner.svg" alt="Hee-Lee Oss — put the capacity to work." width="100%" />
 </p>
