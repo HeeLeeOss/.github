@@ -21,7 +21,7 @@ That capacity doesn't roll over — it just disappears, week after week, unless 
 Install Hee-Lee Oss, and get to work — with Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported.
 
 <p align="center">
-  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/download-icon.svg" width="26" height="26" alt="" style="vertical-align:middle" /> <b>Hee-Lee Oss Downloads</b></a> — installers, step-by-step instructions, loop scripts, agent adapters, and full documentation.
+  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><b>Hee-Lee Oss Downloads</b> <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/download-icon.svg" width="26" height="26" alt="" style="vertical-align:middle" /></a> — installers, step-by-step instructions, loop scripts, agent adapters, and full documentation.
 </p>
 
 <p align="center">
