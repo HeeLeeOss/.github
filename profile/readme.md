@@ -1,8 +1,24 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/sunburst-banner.svg" alt="Hee-Lee Oss Projects — a sunburst banner where each ray's width is sized to that project category's live repo count" width="100%" />
+  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads">
+    <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/hero-banner.svg" alt="Hee-Lee Oss Projects — turn spare AI capacity into open-source good deeds. Each sunburst ray's width is sized to that project category's live repo count." width="100%" />
+  </a>
 </p>
 
-# Hee-Lee Oss Projects
+<p align="center">
+  <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/btn-downloads.svg" alt="Get Hee-Lee Oss — Downloads" height="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/orgs/Hee-Lee-Oss-Projects/repositories"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/btn-browse.svg" alt="Browse all 171 repositories" height="50" /></a>
+</p>
+
+<p align="center">
+  <a href="#-how-it-works"><b>How it works</b></a>
+  &nbsp;&#183;&nbsp;
+  <a href="#-everything-produced-here-is-permanently-open"><b>Permanently open</b></a>
+  &nbsp;&#183;&nbsp;
+  <a href="#%EF%B8%8F-more-ways-to-run-hee-lee-oss"><b>Ways to run</b></a>
+  &nbsp;&#183;&nbsp;
+  <a href="#-what-is-being-built-here"><b>What is being built</b></a>
+</p>
 
 Every week, **millions of AI credits expire unused**. Claude Pro sessions, Gemini subscriptions, Copilot seats — capacity that evaporates the moment it isn't used. **Hee-Lee Oss gives that capacity a purpose**.
 
@@ -14,7 +30,7 @@ That capacity doesn't roll over — it just disappears, week after week. Ignite 
 
 Good deeds, out in the open — your own subscription, your own agent. Hee-Lee Oss **never touches your credentials or runs anything on your behalf**.
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🔧 How it works
 
@@ -28,7 +44,7 @@ Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for 
   <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter-good.svg" alt="Usage credits: 99% used. Put the capacity to work, for good." width="100%" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🤲 Everything produced here is permanently open
 
@@ -44,43 +60,50 @@ This is not a formality. It means:
 A single deed, merged once, can reach people across the world for decades. That is what the license makes possible.
 
 <p align="center">
-  <img alt="content license" src="https://img.shields.io/badge/content-CC%20BY%204.0-FFCB47?style=flat-square">
-  <img alt="code license" src="https://img.shields.io/badge/code-MIT%20%2F%20CC0-FF9A3C?style=flat-square">
-  <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-FF8247?style=flat-square">
-  <img alt="compute" src="https://img.shields.io/badge/compute-donated-FF6B4A?style=flat-square">
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/Hee-Lee-Oss-Projects/.github?style=flat-square&color=FFB238&label=updated">
+  <img alt="content license" src="https://img.shields.io/badge/content-CC%20BY%204.0-FFCB47?style=flat-square&labelColor=3A2410">
+  <img alt="code license" src="https://img.shields.io/badge/code-MIT%20%2F%20CC0-FF9A3C?style=flat-square&labelColor=3A2410">
+  <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-FF8247?style=flat-square&labelColor=3A2410">
+  <img alt="compute" src="https://img.shields.io/badge/compute-donated-FF6B4A?style=flat-square&labelColor=3A2410">
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/Hee-Lee-Oss-Projects/.github?style=flat-square&color=FFB238&labelColor=3A2410&label=updated">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" alt=""/></p>
 
 ## ⚙️ More ways to run Hee-Lee Oss
 
 There's more than one way to put your capacity to work.
 
-**Control Room** — a desktop mission control for your loops: spawn a worker pane per project, watch each one run live in its own embedded terminal, and let an orchestrator coordinate them across your session. Guided setup and a project picker mean you're never hand-editing a config file.
-
-**Loop scripts** — available for Windows (PowerShell) and macOS/Linux (bash). They handle the full cycle automatically: pick a task, run your agent, submit the PR, move to the next one. Auto model selection matches each task's risk to the right model tier, a configurable session cap keeps a run from overrunning the queue, and dry-run mode lets you verify a session before committing to it.
-
-**Claude Code plugin** — the smoothest path if you already live in Claude Code. Install it once and Hee-Lee Oss becomes part of the conversation: ask your agent to start a deed, keep going while you've got capacity, or check how much you've done — no separate CLI window, no context-switching.
+<table>
+  <tr>
+    <th align="left">🖥&nbsp; Control Room</th>
+    <th align="left">🔁&nbsp; Loop scripts</th>
+    <th align="left">💬&nbsp; Claude Code plugin</th>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">A desktop mission control for your loops: spawn a worker pane per project, watch each one run live in its own embedded terminal, and let an orchestrator coordinate them across your session. Guided setup and a project picker mean you're never hand-editing a config file.</td>
+    <td valign="top" width="33%">Available for Windows (PowerShell) and macOS/Linux (bash). They handle the full cycle automatically: pick a task, run your agent, submit the PR, move to the next one. Auto model selection matches each task's risk to the right model tier, a configurable session cap keeps a run from overrunning the queue, and dry-run mode lets you verify a session before committing to it.</td>
+    <td valign="top" width="33%">The smoothest path if you already live in Claude Code. Install it once and Hee-Lee Oss becomes part of the conversation: ask your agent to start a deed, keep going while you've got capacity, or check how much you've done — no separate CLI window, no context-switching.</td>
+  </tr>
+</table>
 
 Hee-Lee Oss only ever runs on the subscription you're already paying for.
 
 Full documentation, options, and per-agent setup guides are in **[Hee-Lee Oss Downloads](https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads)**.
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🟡 What is being built here
 
-[Browse all 171 repositories →](https://github.com/orgs/Hee-Lee-Oss-Projects/repositories)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/radial-map.svg" alt="Map of Hee-Lee Oss project categories: Cancer Research &amp; Open Science, Education &amp; Literacy, Accessibility &amp; Language, Community &amp; Public Benefit, and Open Data &amp; Knowledge, each branching into labeled example-project cards." width="100%" />
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/category-grid.svg" alt="Map of Hee-Lee Oss project categories: Open Data &amp; Knowledge, Cancer Research &amp; Open Science, Accessibility &amp; Language, Education &amp; Literacy, and Community &amp; Public Benefit, each a card listing example projects." width="100%" />
 </p>
 
 Five categories: **Cancer Research & Open Science**, **Education & Literacy**, **Accessibility & Language**, **Community & Public Benefit**, and **Open Data & Knowledge**.
 
-<p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+<p align="center">
+  <a href="https://github.com/orgs/Hee-Lee-Oss-Projects/repositories"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/btn-browse.svg" alt="Browse all 171 repositories" height="50" /></a>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/footer-banner.svg" alt="Hee-Lee Oss — put the capacity to work." width="100%" />
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/footer-banner.svg" alt="Hee-Lee Oss — from the Greek Eleos, the personification of compassion and mercy. Put the capacity to work." width="100%" />
 </p>

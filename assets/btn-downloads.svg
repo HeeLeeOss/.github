@@ -1,0 +1,20 @@
+<svg width="340" height="58" viewBox="0 0 340 58" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Get Hee-Lee Oss — Downloads">
+  <defs>
+    <linearGradient id="btnFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB238"/>
+      <stop offset="100%" stop-color="#FF6B4A"/>
+    </linearGradient>
+    <linearGradient id="btnSheen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="337" height="55" rx="27.5" fill="url(#btnFill)" stroke="#D8552A" stroke-width="1.5"/>
+  <rect x="3" y="3" width="334" height="26" rx="13" fill="url(#btnSheen)"/>
+  <g transform="translate(30,17)" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M12 2 V15"/>
+    <path d="M6 10 L12 16 L18 10"/>
+    <path d="M3 21 H21"/>
+  </g>
+  <text x="70" y="37" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">Get Hee-Lee Oss &#8212; Downloads</text>
+</svg>

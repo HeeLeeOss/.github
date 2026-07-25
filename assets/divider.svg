@@ -1,12 +1,26 @@
-<svg width="1200" height="8" viewBox="0 0 1200 8" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+<svg width="1200" height="28" viewBox="0 0 1200 28" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
   <defs>
-    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFCB47"/>
-      <stop offset="30%" stop-color="#FFB238"/>
-      <stop offset="55%" stop-color="#FF9A3C"/>
-      <stop offset="78%" stop-color="#FF8247"/>
-      <stop offset="100%" stop-color="#FF6B4A"/>
+    <linearGradient id="divL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF9A3C" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FF9A3C" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="divR" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF9A3C" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#FF9A3C" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="8" rx="4" fill="url(#divGrad)"/>
+  <rect x="60" y="13" width="504" height="2" rx="1" fill="url(#divL)"/>
+  <rect x="636" y="13" width="504" height="2" rx="1" fill="url(#divR)"/>
+  <!-- small sun glyph at center -->
+  <g stroke="#FF9A3C" stroke-width="1.6" stroke-linecap="round">
+    <circle cx="600" cy="14" r="4.5" fill="#FFCB47" stroke="none"/>
+    <line x1="600" y1="3" x2="600" y2="6.5"/>
+    <line x1="600" y1="21.5" x2="600" y2="25"/>
+    <line x1="589" y1="14" x2="592.5" y2="14"/>
+    <line x1="607.5" y1="14" x2="611" y2="14"/>
+    <line x1="592.2" y1="6.2" x2="594.7" y2="8.7"/>
+    <line x1="605.3" y1="19.3" x2="607.8" y2="21.8"/>
+    <line x1="607.8" y1="6.2" x2="605.3" y2="8.7"/>
+    <line x1="594.7" y1="19.3" x2="592.2" y2="21.8"/>
+  </g>
 </svg>

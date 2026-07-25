@@ -1,23 +1,56 @@
-<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Usage credits: 25% used, expires in 12 hours, then poof, it's gone.">
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Usage credits: 25% used, the rest expires in 12 hours — then poof, it's gone.">
   <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFDF6"/>
+      <stop offset="100%" stop-color="#FFF8EC"/>
+    </linearGradient>
     <linearGradient id="fillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFCB47"/>
       <stop offset="100%" stop-color="#FF8247"/>
     </linearGradient>
+    <linearGradient id="poofGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F2802E"/>
+      <stop offset="100%" stop-color="#E85A2A"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="trackClip">
+      <rect x="48" y="78" width="560" height="14" rx="7"/>
+    </clipPath>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="138" rx="14" fill="#FFFDF6" stroke="#F0D9AE" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="148" rx="18" fill="url(#cardBg)" stroke="#F0D9AE" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="4" rx="2" fill="url(#fillGrad)" opacity="0.85"/>
 
-  <text x="40" y="26" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#4A2E12">Usage Credits</text>
+  <text x="48" y="46" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.5" fill="#A9875A">USAGE CREDITS</text>
 
-  <path d="M 155.0 77 L 146.0 59 L 164.0 59 Z" fill="#D8322A"/>
+  <!-- track -->
+  <rect x="48" y="78" width="560" height="14" rx="7" fill="#F7E7CB"/>
+  <rect x="48" y="78" height="14" rx="7" fill="url(#fillGrad)" width="140">
+    <animate attributeName="width" values="0;140" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+  </rect>
+  <!-- shimmer sweeping the unused remainder -->
+  <g clip-path="url(#trackClip)">
+    <rect x="-160" y="78" width="160" height="14" fill="url(#shimmer)">
+      <animate attributeName="x" values="-160;620" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <!-- expiry tick at 25% -->
+  <path d="M 188 74 L 182 62 L 194 62 Z" fill="#E85A2A">
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+  </path>
 
-  <rect x="40" y="80" width="460" height="14" rx="7" fill="#FCEBD1"/>
-  <rect x="40" y="80" width="115.0" height="14" rx="7" fill="url(#fillGrad)"/>
-  <text x="40" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#8A6A3A">25% used &#183; <tspan font-weight="700" fill="#C1481F">Expires in 12 hours</tspan></text>
+  <text x="48" y="124" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" fill="#8A6A3A">25% used &#183; <tspan font-weight="700" fill="#C1481F">the rest expires in 12 hours</tspan></text>
 
-  <text x="546" y="99.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" font-style="italic" fill="#E8672E">then poof &#128168;, it's gone.</text>
+  <text x="660" y="98" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="31" font-weight="700" font-style="italic" fill="url(#poofGrad)">then poof &#128168;, it&#8217;s gone.</text>
 
-  <circle cx="1160" cy="26" r="17" fill="#D8322A"/>
-  <path d="M 1153 19 L 1167 33 M 1167 19 L 1153 33" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <!-- hourglass -->
+  <g transform="translate(1128,52)" stroke="#C1481F" stroke-width="2.4" stroke-linecap="round" fill="none">
+    <path d="M 0 0 H 24 M 0 46 H 24 M 2 2 C 2 16, 22 18, 22 30 C 22 38, 20 42, 20 44 M 22 2 C 22 16, 2 18, 2 30 C 2 38, 4 42, 4 44"/>
+    <path d="M 8 10 C 8 14, 16 14, 16 10" stroke="none" fill="#FF9A3C"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 12 23;0 12 23;180 12 23;180 12 23" keyTimes="0;0.7;0.85;1" dur="6s" repeatCount="indefinite" additive="sum"/>
+  </g>
 </svg>

@@ -1,0 +1,90 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Map of Hee-Lee Oss project categories, each a card with a heading, repo count, and example projects">
+  <rect width="1200" height="600" rx="20" fill="#FFFDF6" stroke="#F0D9AE" stroke-width="1.5"/>
+  <defs>
+    <clipPath id="cc0"><rect x="33" y="36" width="362" height="252" rx="14"/></clipPath>
+    <clipPath id="cc1"><rect x="419" y="36" width="362" height="252" rx="14"/></clipPath>
+    <clipPath id="cc2"><rect x="805" y="36" width="362" height="252" rx="14"/></clipPath>
+    <clipPath id="cc3"><rect x="226" y="312" width="362" height="252" rx="14"/></clipPath>
+    <clipPath id="cc4"><rect x="612" y="312" width="362" height="252" rx="14"/></clipPath>
+  </defs>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <rect x="33" y="36" width="362" height="252" rx="14" fill="#FFFFFF" stroke="#EDDCBB" stroke-width="1.5"/>
+    <g clip-path="url(#cc0)"><rect x="33" y="36" width="362" height="46" fill="#FFCB47"/></g>
+    <text x="53" y="66" font-size="18.5" font-weight="700" fill="#3A2410">Open Data &amp; Knowledge</text>
+    <text x="377" y="66" font-size="13.5" font-weight="700" fill="#5C3A16" text-anchor="end" opacity="0.85">45 repos</text>
+    <circle cx="60" cy="109" r="4.5" fill="#B28E31"/>
+    <text x="78" y="114" font-size="15.5" fill="#3A2410">Civic open data</text>
+    <circle cx="60" cy="145" r="4.5" fill="#B28E31"/>
+    <text x="78" y="150" font-size="15.5" fill="#3A2410">Open spending explainers</text>
+    <circle cx="60" cy="181" r="4.5" fill="#B28E31"/>
+    <text x="78" y="186" font-size="15.5" fill="#3A2410">Citizen-science pipelines</text>
+    <circle cx="60" cy="217" r="4.5" fill="#B28E31"/>
+    <text x="78" y="222" font-size="15.5" fill="#3A2410">World folktales</text>
+    <circle cx="60" cy="253" r="4.5" fill="#B28E31"/>
+    <text x="78" y="258" font-size="15.5" fill="#3A2410">Public-domain scores</text>
+  </g>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <rect x="419" y="36" width="362" height="252" rx="14" fill="#FFFFFF" stroke="#EDDCBB" stroke-width="1.5"/>
+    <g clip-path="url(#cc1)"><rect x="419" y="36" width="362" height="46" fill="#FFB238"/></g>
+    <text x="439" y="66" font-size="18.5" font-weight="700" fill="#3A2410">Cancer Research &amp; Open Science</text>
+    <text x="763" y="66" font-size="13.5" font-weight="700" fill="#5C3A16" text-anchor="end" opacity="0.85">39 repos</text>
+    <circle cx="446" cy="109" r="4.5" fill="#BF852A"/>
+    <text x="464" y="114" font-size="15.5" fill="#3A2410">Reproducible oncology benchmarks</text>
+    <circle cx="446" cy="145" r="4.5" fill="#BF852A"/>
+    <text x="464" y="150" font-size="15.5" fill="#3A2410">Open cohort catalogs</text>
+    <circle cx="446" cy="181" r="4.5" fill="#BF852A"/>
+    <text x="464" y="186" font-size="15.5" fill="#3A2410">Multilingual patient guides</text>
+    <circle cx="446" cy="217" r="4.5" fill="#BF852A"/>
+    <text x="464" y="222" font-size="15.5" fill="#3A2410">Ewing sarcoma infrastructure</text>
+    <circle cx="446" cy="253" r="4.5" fill="#BF852A"/>
+    <text x="464" y="258" font-size="15.5" fill="#3A2410">Proteomics reanalysis</text>
+  </g>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <rect x="805" y="36" width="362" height="252" rx="14" fill="#FFFFFF" stroke="#EDDCBB" stroke-width="1.5"/>
+    <g clip-path="url(#cc2)"><rect x="805" y="36" width="362" height="46" fill="#FF9A3C"/></g>
+    <text x="825" y="66" font-size="18.5" font-weight="700" fill="#3A2410">Accessibility &amp; Language</text>
+    <text x="1149" y="66" font-size="13.5" font-weight="700" fill="#5C3A16" text-anchor="end" opacity="0.85">24 repos</text>
+    <circle cx="832" cy="109" r="4.5" fill="#CC7B30"/>
+    <text x="850" y="114" font-size="15.5" fill="#3A2410">Emergency phrasebooks</text>
+    <circle cx="832" cy="145" r="4.5" fill="#CC7B30"/>
+    <text x="850" y="150" font-size="15.5" fill="#3A2410">Sign-language glossaries</text>
+    <circle cx="832" cy="181" r="4.5" fill="#CC7B30"/>
+    <text x="850" y="186" font-size="15.5" fill="#3A2410">Braille-ready texts</text>
+    <circle cx="832" cy="217" r="4.5" fill="#CC7B30"/>
+    <text x="850" y="222" font-size="15.5" fill="#3A2410">Keyboards for under-served scripts</text>
+    <circle cx="832" cy="253" r="4.5" fill="#CC7B30"/>
+    <text x="850" y="258" font-size="15.5" fill="#3A2410">Open pictograms</text>
+  </g>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <rect x="226" y="312" width="362" height="252" rx="14" fill="#FFFFFF" stroke="#EDDCBB" stroke-width="1.5"/>
+    <g clip-path="url(#cc3)"><rect x="226" y="312" width="362" height="46" fill="#FF8247"/></g>
+    <text x="246" y="342" font-size="18.5" font-weight="700" fill="#3A2410">Education &amp; Literacy</text>
+    <text x="570" y="342" font-size="13.5" font-weight="700" fill="#5C3A16" text-anchor="end" opacity="0.85">22 repos</text>
+    <circle cx="253" cy="385" r="4.5" fill="#D86E3C"/>
+    <text x="271" y="390" font-size="15.5" fill="#3A2410">Open coding curriculum</text>
+    <circle cx="253" cy="421" r="4.5" fill="#D86E3C"/>
+    <text x="271" y="426" font-size="15.5" fill="#3A2410">Decodable readers</text>
+    <circle cx="253" cy="457" r="4.5" fill="#D86E3C"/>
+    <text x="271" y="462" font-size="15.5" fill="#3A2410">Numeracy &amp; literacy from zero</text>
+    <circle cx="253" cy="493" r="4.5" fill="#D86E3C"/>
+    <text x="271" y="498" font-size="15.5" fill="#3A2410">OER lesson plans</text>
+    <circle cx="253" cy="529" r="4.5" fill="#D86E3C"/>
+    <text x="271" y="534" font-size="15.5" fill="#3A2410">Math manipulatives</text>
+  </g>
+  <g font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+    <rect x="612" y="312" width="362" height="252" rx="14" fill="#FFFFFF" stroke="#EDDCBB" stroke-width="1.5"/>
+    <g clip-path="url(#cc4)"><rect x="612" y="312" width="362" height="46" fill="#FF6B4A"/></g>
+    <text x="632" y="342" font-size="18.5" font-weight="700" fill="#3A2410">Community &amp; Public Benefit</text>
+    <text x="956" y="342" font-size="13.5" font-weight="700" fill="#5C3A16" text-anchor="end" opacity="0.85">20 repos</text>
+    <circle cx="639" cy="385" r="4.5" fill="#D85A3E"/>
+    <text x="657" y="390" font-size="15.5" fill="#3A2410">Food assistance maps</text>
+    <circle cx="639" cy="421" r="4.5" fill="#D85A3E"/>
+    <text x="657" y="426" font-size="15.5" fill="#3A2410">Water quality explainers</text>
+    <circle cx="639" cy="457" r="4.5" fill="#D85A3E"/>
+    <text x="657" y="462" font-size="15.5" fill="#3A2410">Climate adaptation guides</text>
+    <circle cx="639" cy="493" r="4.5" fill="#D85A3E"/>
+    <text x="657" y="498" font-size="15.5" fill="#3A2410">Know-your-rights guides</text>
+    <circle cx="639" cy="529" r="4.5" fill="#D85A3E"/>
+    <text x="657" y="534" font-size="15.5" fill="#3A2410">Digital literacy for seniors</text>
+  </g>
+</svg>

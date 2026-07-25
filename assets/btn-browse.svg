@@ -1,0 +1,9 @@
+<svg width="340" height="58" viewBox="0 0 340 58" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Browse all 171 repositories">
+  <rect x="1.5" y="1.5" width="337" height="55" rx="27.5" fill="#FFFDF6" stroke="#FF8247" stroke-width="2"/>
+  <text x="44" y="37" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#D8552A">Browse all 171 repositories</text>
+  <g transform="translate(288,29)" stroke="#D8552A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M0 0 H16 M9 -7 L16 0 L9 7">
+      <animateTransform attributeName="transform" type="translate" values="0 0;4 0;0 0" dur="1.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.5;1"/>
+    </path>
+  </g>
+</svg>
