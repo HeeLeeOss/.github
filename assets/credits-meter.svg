@@ -1,4 +1,4 @@
-<svg width="1200" height="136" viewBox="0 0 1200 136" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Usage credits: 25% used, expires in 12 hours, then poof, it's gone.">
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Usage credits: 25% used, expires in 12 hours, then poof, it's gone.">
   <defs>
     <linearGradient id="fillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFCB47"/>
@@ -6,16 +6,15 @@
     </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="134" rx="14" fill="#FFFDF6" stroke="#F0D9AE" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="138" rx="14" fill="#FFFDF6" stroke="#F0D9AE" stroke-width="1.5"/>
 
-  <text x="40" y="28" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#4A2E12">Usage Credits</text>
+  <text x="40" y="26" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#4A2E12">Usage Credits</text>
 
-  <path d="M 155.0 72 L 148.0 58 L 162.0 58 Z" fill="#D8322A"/>
-  <line x1="155.0" y1="40" x2="155.0" y2="58" stroke="#D8322A" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 155.0 77 L 146.0 59 L 164.0 59 Z" fill="#D8322A"/>
 
-  <rect x="40" y="74" width="460" height="14" rx="7" fill="#FCEBD1"/>
-  <rect x="40" y="74" width="115.0" height="14" rx="7" fill="url(#fillGrad)"/>
-  <text x="40" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8A6A3A">25% used &#183; <tspan font-size="19" font-weight="700" fill="#C1481F">Expires in 12 hours</tspan></text>
+  <rect x="40" y="80" width="460" height="14" rx="7" fill="#FCEBD1"/>
+  <rect x="40" y="80" width="115.0" height="14" rx="7" fill="url(#fillGrad)"/>
+  <text x="40" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#8A6A3A">25% used &#183; <tspan font-weight="700" fill="#C1481F">Expires in 12 hours</tspan></text>
 
-  <text x="546" y="93.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" font-style="italic" fill="#E8672E">then poof &#128168;, it's gone.</text>
+  <text x="546" y="99.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" font-style="italic" fill="#E8672E">then poof &#128168;, it's gone.</text>
 </svg>
