@@ -18,7 +18,7 @@ Good deeds, out in the open — your own subscription, your own agent. Hee-Lee O
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for the good of mankind. Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported.
+Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for the good of mankind. You click a button and your AI credits are put to good use. Claude Code, Gemini CLI, Cursor, Copilot, Aider, Codex, all supported.
 
 <p align="center">
   <a href="https://github.com/Hee-Lee-Oss-Projects/hee-lee-oss-downloads"><b>Hee-Lee Oss Downloads</b> <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/download-icon.svg" width="26" height="26" alt="" style="vertical-align:middle" /></a> — installers, step-by-step instructions, loop scripts, agent adapters, and full documentation.
