@@ -25,7 +25,7 @@ Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter-good.svg?v=2" alt="Usage credits: 99% used, 1% left open. Capacity put to work: 74% put to good deeds." width="100%" />
+  <img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/credits-meter-good.svg?v=3" alt="Usage credits: 99% used, 1% left open. Capacity put to work: 74% put to good deeds." width="100%" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
