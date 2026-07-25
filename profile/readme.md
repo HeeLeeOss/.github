@@ -28,11 +28,9 @@
 **What if you could do a hundred?**
 **What if you could do a thousand — every single week — just by not wasting what you already pay for?**
 
-☀️ Good deeds, out in the open — powered by AI capacity you already pay for and weren't using anyway.
+That capacity doesn't roll over — it just disappears, week after week, unless something puts it to work.
 
-**Run your AI agent against a real community project. Do good works. Ship it.**
-
-No donation required. No new account. Nothing billed beyond what you already pay.
+☀️ Good deeds, out in the open — powered by AI capacity you already pay for and weren't using anyway. **Run your AI agent against a real community project. Do good works. Ship it.**
 
 <p align="center"><img src="https://raw.githubusercontent.com/Hee-Lee-Oss-Projects/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
