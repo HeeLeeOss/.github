@@ -14,6 +14,13 @@
     <clipPath id="iconClip">
       <circle cx="946.0" cy="87.0" r="26"/>
     </clipPath>
+    <filter id="greenGlow" x="-60%" y="-300%" width="220%" height="700%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <rect x="1" y="1" width="1198" height="138" rx="14" fill="#FFFDF6" stroke="#F0D9AE" stroke-width="1.5"/>
@@ -23,6 +30,7 @@
   <path d="M 495.4 77 L 486.4 59 L 504.4 59 Z" fill="#D8322A"/>
 
   <rect x="40" y="80" width="460" height="14" rx="7" fill="#FCEBD1"/>
+  <rect x="155.0" y="80" width="340.4" height="14" rx="7" fill="#5FAE4E" opacity="0.85" filter="url(#greenGlow)"/>
   <g clip-path="url(#barClip)">
     <rect x="40" y="80" width="115.0" height="14" fill="url(#fillGradOrange)"/>
     <rect x="155.0" y="80" width="340.4" height="14" fill="url(#fillGradGreen)"/>
