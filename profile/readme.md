@@ -40,7 +40,7 @@ All output published across Hee-Lee Oss carries an open license — **CC BY 4.0*
 
 This is not a formality. It means:
 
-- **Anyone can use it, forever** — a teacher in Lagos, a researcher in Seoul, a government health ministry, a student with a phone and no library. No permission needed, no fee, no expiry.
+- **Anyone can use it, forever** — a teacher in Sayreville, a researcher in Seoul, a government health ministry, a student with a phone and no library. No permission needed, no fee, no expiry.
 - **The license is irrevocable** — once published here, the work cannot be re-restricted or taken back. It belongs to the commons permanently.
 - **Derivatives stay open** — CC BY requires attribution, so every adaptation, translation, or product built on this work carries the open chain forward. Your contribution multiplies with every downstream use.
 - **The impact compounds over time** — a patient guide translated today can be legally incorporated into a clinic's materials, a government app, a printed handbook, a school curriculum, in five years or fifty years, without anyone needing to track down an author for permission.
