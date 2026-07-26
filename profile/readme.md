@@ -68,7 +68,7 @@ There's more than one way to put your capacity to work.
     <th align="left">💬&nbsp; Agent plugins</th>
   </tr>
   <tr>
-    <td valign="top" width="33%">A desktop mission control for your loops: spawn a worker pane per project, watch each one run live in its own embedded terminal, and let an orchestrator coordinate them across your session. Guided setup and a project picker mean you're never hand-editing a config file. Coming next: mixed fleets — a different agent in every lane, Claude in one, Gemini in another, Kimi in a third.</td>
+    <td valign="top" width="33%">A desktop mission control for your loops: spawn a worker pane per project, watch each one run live in its own embedded terminal, and let an orchestrator coordinate them across your session.</td>
     <td valign="top" width="33%">For Windows (PowerShell) and macOS/Linux (bash). They orchestrate and control any supported agent through the full cycle: pick a task, run the agent, submit the PR, move on. Every agent is a registry entry, so auto model selection maps each task's risk to the right model tier for that provider — with a session cap and dry-run mode keeping every run in check.</td>
     <td valign="top" width="33%">The smoothest path if you already live in your agent. Install one and Hee-Lee Oss becomes part of the conversation: ask your agent to start a deed, keep going while you've got capacity, or check how much you've done — no separate CLI window, no context-switching. Claude Code today; Gemini CLI, Codex, and Kimi plugins are on the way.</td>
   </tr>
