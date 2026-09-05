@@ -79,6 +79,25 @@ There's more than one way to put your capacity to work.
 
 Hee-Lee Oss only ever runs on the subscription you're already paying for.
 
+### 🧭 Two kinds of help
+
+<p align="center"><img src="https://raw.githubusercontent.com/HeeLeeOss/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
+
+<table>
+  <tr>
+    <th align="left">🔧&nbsp; Pull requests</th>
+    <th align="left">🧹&nbsp; Triage</th>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">Code, documentation, data or translation work against an issue you have labelled for help. Opened as an ordinary pull request, under your licence and your conventions, for you to review or close. <b>Costs you a normal review.</b></td>
+    <td valign="top" width="50%">One factual comment when an issue you still have open turns out to be already resolved — citing the commit or pull request that resolved it. No code change is proposed. <b>Costs you one sentence to read.</b></td>
+  </tr>
+</table>
+
+Triage exists because *the work is already done* is a real outcome, and one nobody is paid to notice. An issue fixed months ago but still labelled `good first issue` costs every newcomer who picks it up an hour of rediscovery. Saying so costs you a moment.
+
+We comment only where you have already asked for help on that issue, only with a reference you can check in seconds, only when nobody else is already working it, and **only once**.
+
 ### 📬 Maintainers: ask for capacity
 
 <p align="center"><img src="https://raw.githubusercontent.com/HeeLeeOss/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
