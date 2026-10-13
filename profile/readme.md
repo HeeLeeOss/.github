@@ -14,6 +14,8 @@ That capacity doesn't roll over — it just disappears, week after week.
 
 🔥 <b>Hee-Lee Oss gives that capacity a purpose, <ins>ignite</ins> it before it's gone.</b>
 
+> 📣 **Latest:** [Our first contribution merged into *The Turing Way* — and the 28 "already fixed" comments we decided not to send](https://github.com/HeeLeeOss/.github/blob/main/posts/2026-10-turing-way.md). Try it: `npm install -g @heeleeoss/cli`
+
 What if you could do one good deed this week? What if you could do a hundred? A thousand — every single week — just by not wasting what you already pay for?
 
 Good deeds, out in the open — your own subscription, your own agent. Hee-Lee Oss **never touches your credentials or runs anything on your behalf**.
