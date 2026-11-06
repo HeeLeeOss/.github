@@ -14,6 +14,8 @@ That capacity doesn't roll over — it just disappears, week after week.
 
 🔥 <b>Hee-Lee Oss gives that capacity a purpose, <ins>ignite</ins> it before it's gone.</b>
 
+> 📣 **Latest:** [Our first contribution merged into *The Turing Way* — and the 28 "already fixed" comments we decided not to send](https://github.com/HeeLeeOss/.github/blob/main/posts/2026-10-turing-way.md). Try it: `npm install -g @heeleeoss/cli`
+
 What if you could do one good deed this week? What if you could do a hundred? A thousand — every single week — just by not wasting what you already pay for?
 
 Good deeds, out in the open — your own subscription, your own agent. Hee-Lee Oss **never touches your credentials or runs anything on your behalf**.
@@ -36,9 +38,8 @@ Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for 
 
 <p align="center"><img src="https://raw.githubusercontent.com/HeeLeeOss/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-All output published in **Hee-Lee Oss projects** carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
+All output published in **Hee-Lee Oss projects** carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT, CC0, or the Unlicense** for code and data.
 
-When a contributor works on **another project's repository**, the work is contributed under *that* project's existing license and contribution terms — we do not, and cannot, impose ours on someone else's repo. What we control is which repositories we work on at all, and that is where the bar is applied.
 
 This is not a formality. It means:
 
@@ -48,11 +49,11 @@ This is not a formality. It means:
 - **We check before we contribute** — every repository is screened for its license before any capacity is spent on it. We flag projects that require a Contributor License Agreement (which can let an owner relicense contributions later) or that carve out a proprietary "enterprise" edition, because neither guarantees the work stays open to everyone.
 - **The impact compounds over time** — a patient guide translated today can be legally incorporated into a clinic's materials, a government app, a printed handbook, a school curriculum, in five years or fifty years, without anyone needing to track down an author for permission.
 
-A single deed, merged once, can reach people across the world for decades. That is what the license makes possible.
-
+  
+  
 <p align="center">
   <img alt="content license" src="https://img.shields.io/badge/content-CC%20BY%204.0-FFCB47?style=flat-square&labelColor=3A2410">
-  <img alt="code license" src="https://img.shields.io/badge/code-MIT%20%2F%20CC0-FF9A3C?style=flat-square&labelColor=3A2410">
+  <img alt="code license" src="https://img.shields.io/badge/code-MIT%20%2F%20CC0%20%2F%20Unlicense-FF9A3C?style=flat-square&labelColor=3A2410">
   <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-FF8247?style=flat-square&labelColor=3A2410">
   <img alt="compute" src="https://img.shields.io/badge/compute-donated-FF6B4A?style=flat-square&labelColor=3A2410">
   <img alt="last commit" src="https://img.shields.io/github/last-commit/HeeLeeOss/.github?style=flat-square&color=FFB238&labelColor=3A2410&label=updated">
