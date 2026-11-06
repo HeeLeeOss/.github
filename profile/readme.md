@@ -40,6 +40,7 @@ Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for 
 
 All output published in **Hee-Lee Oss projects** carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT, CC0, or the Unlicense** for code and data.
 
+When a contributor works on **another project's repository**, the work is contributed under *that* project's existing license and contribution terms — we do not, and cannot, impose ours on someone else's repo. What we control is where we offer help: we only offer it to projects whose work is already openly licensed, and every pull request we open there says it was AI-assisted.
 
 This is not a formality. It means:
 
@@ -48,6 +49,7 @@ This is not a formality. It means:
 - **Derivatives stay open** — CC BY requires attribution, so every adaptation, translation, or product built on this work carries the open chain forward. Your contribution multiplies with every downstream use.
 - **We check before we contribute** — every repository is screened for its license before any capacity is spent on it. We flag projects that require a Contributor License Agreement (which can let an owner relicense contributions later) or that carve out a proprietary "enterprise" edition, because neither guarantees the work stays open to everyone.
 - **The impact compounds over time** — a patient guide translated today can be legally incorporated into a clinic's materials, a government app, a printed handbook, a school curriculum, in five years or fifty years, without anyone needing to track down an author for permission.
+- **We check before we contribute** — before we offer help to a repository, we read its license and contribution terms. We turn down a repository with no license, source-available terms, or a proprietary "enterprise" edition, and we flag one that requires a Contributor License Agreement (which can let an owner relicense contributions later), because those don't guarantee the work stays open to everyone.
 
   
   
