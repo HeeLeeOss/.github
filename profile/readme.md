@@ -38,7 +38,8 @@ Before your credits expire, run Hee-Lee Oss and ~~burn~~ ignite your tokens for 
 
 <p align="center"><img src="https://raw.githubusercontent.com/HeeLeeOss/.github/main/assets/divider.svg" width="100%" height="6" alt=""/></p>
 
-All output published across Hee-Lee Oss carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT or CC0** for code and data.
+All output published in **Hee-Lee Oss projects** carries an open license — **CC BY 4.0** for content, prose, and educational material; **MIT, CC0, or the Unlicense** for code and data.
+
 
 This is not a formality. It means:
 
@@ -47,11 +48,11 @@ This is not a formality. It means:
 - **Derivatives stay open** — CC BY requires attribution, so every adaptation, translation, or product built on this work carries the open chain forward. Your contribution multiplies with every downstream use.
 - **The impact compounds over time** — a patient guide translated today can be legally incorporated into a clinic's materials, a government app, a printed handbook, a school curriculum, in five years or fifty years, without anyone needing to track down an author for permission.
 
-A single deed, merged once, can reach people across the world for decades. That is what the license makes possible.
-
+  
+  
 <p align="center">
   <img alt="content license" src="https://img.shields.io/badge/content-CC%20BY%204.0-FFCB47?style=flat-square&labelColor=3A2410">
-  <img alt="code license" src="https://img.shields.io/badge/code-MIT%20%2F%20CC0-FF9A3C?style=flat-square&labelColor=3A2410">
+  <img alt="code license" src="https://img.shields.io/badge/code-MIT%20%2F%20CC0%20%2F%20Unlicense-FF9A3C?style=flat-square&labelColor=3A2410">
   <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-FF8247?style=flat-square&labelColor=3A2410">
   <img alt="compute" src="https://img.shields.io/badge/compute-donated-FF6B4A?style=flat-square&labelColor=3A2410">
   <img alt="last commit" src="https://img.shields.io/github/last-commit/HeeLeeOss/.github?style=flat-square&color=FFB238&labelColor=3A2410&label=updated">
